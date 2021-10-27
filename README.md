@@ -1,16 +1,12 @@
-# flutter_application_1
+Clone de um projeto no figma:  https://www.figma.com/community/file/1029185902903782315
 
-A new Flutter project.
+ 
+<table style={border:"none"}><tr>
+ <td><img src="https://user-images.githubusercontent.com/86307663/139106540-0da29048-b47b-4284-a871-17c0ffbc2163.png" width="250px" ></td>
+ <br>
+ <td><img src="https://user-images.githubusercontent.com/86307663/139106277-74fbdf97-c219-4b74-be7e-14615512864d.png" width="250px" ></td>
+ <br>
+ <td><img src="https://user-images.githubusercontent.com/86307663/139106256-e893b8f5-1e1c-4309-b031-fe414caf5c3f.png" width="250px" ></td>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
